@@ -1,0 +1,236 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="SampleBrowser_embeddedmobileprovision" xml:space="preserve">
+    <value>0‚&#x1F;[&#x6;	*†H†÷&#x1;&#x7;&#x2; ‚&#x1F;L0‚&#x1F;H&#x2;&#x1;&#x1;1&#xB;0	&#x6;&#x5;+&#xE;&#x3;&#x2;&#x1A;&#x5; 0‚&#xF;!&#x6;	*†H†÷&#x1;&#x7;&#x1; ‚&#xF;&#x12;&#x4;‚&#xF;&#xE;&lt;?xml version="1.0" encoding="UTF-8"?&gt;
+&lt;!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd"&gt;
+&lt;plist version="1.0"&gt;
+&lt;dict&gt;
+	&lt;key&gt;AppIDName&lt;/key&gt;
+	&lt;string&gt;Xcode iOS Wildcard App ID&lt;/string&gt;
+	&lt;key&gt;ApplicationIdentifierPrefix&lt;/key&gt;
+	&lt;array&gt;
+	&lt;string&gt;FFFFFFFFV&lt;/string&gt;
+	&lt;/array&gt;
+	&lt;key&gt;CreationDate&lt;/key&gt;
+	&lt;date&gt;2015-07-21T18:03:24Z&lt;/date&gt;
+	&lt;key&gt;Platform&lt;/key&gt;
+	&lt;array&gt;
+		&lt;string&gt;iOS&lt;/string&gt;
+	&lt;/array&gt;
+	&lt;key&gt;DeveloperCertificates&lt;/key&gt;
+	&lt;array&gt;
+		&lt;data&gt;ABCDEFGH&lt;/data&gt;
+	&lt;/array&gt;
+	&lt;key&gt;Entitlements&lt;/key&gt;
+	&lt;dict&gt;
+		&lt;key&gt;keychain-access-groups&lt;/key&gt;
+		&lt;array&gt;
+			&lt;string&gt;FFFFFFFFFF.*&lt;/string&gt;		
+		&lt;/array&gt;
+		&lt;key&gt;get-task-allow&lt;/key&gt;
+		&lt;true/&gt;
+		&lt;key&gt;application-identifier&lt;/key&gt;
+		&lt;string&gt;FFFFFFFF.*&lt;/string&gt;
+		&lt;key&gt;com.apple.developer.team-identifier&lt;/key&gt;
+		&lt;string&gt;FFFFFFFF&lt;/string&gt;
+
+	&lt;/dict&gt;
+	&lt;key&gt;ExpirationDate&lt;/key&gt;
+	&lt;date&gt;2016-07-20T18:03:24Z&lt;/date&gt;
+	&lt;key&gt;Name&lt;/key&gt;
+	&lt;string&gt;AdventureWork_Common&lt;/string&gt;
+	&lt;key&gt;ProvisionedDevices&lt;/key&gt;
+	&lt;array&gt;
+		&lt;string&gt;0000000000000000000000000000000000000000&lt;/string&gt;
+		&lt;string&gt;0000000000000000000000000000000000000000&lt;/string&gt;
+		&lt;string&gt;0000000000000000000000000000000000000000&lt;/string&gt;
+		&lt;string&gt;0000000000000000000000000000000000000000&lt;/string&gt;
+		&lt;string&gt;0000000000000000000000000000000000000000&lt;/string&gt;
+		&lt;string&gt;0000000000000000000000000000000000000000&lt;/string&gt;
+		&lt;string&gt;0000000000000000000000000000000000000000&lt;/string&gt;
+		&lt;string&gt;0000000000000000000000000000000000000000&lt;/string&gt;
+		&lt;string&gt;0000000000000000000000000000000000000000&lt;/string&gt;
+		&lt;string&gt;0000000000000000000000000000000000000000&lt;/string&gt;
+	&lt;/array&gt;
+	&lt;key&gt;TeamIdentifier&lt;/key&gt;
+	&lt;array&gt;
+		&lt;string&gt;FFFFFFFFFF&lt;/string&gt;
+	&lt;/array&gt;
+	&lt;key&gt;TeamName&lt;/key&gt;
+	&lt;string&gt;AdventureWork GmbH&lt;/string&gt;
+	&lt;key&gt;TimeToLive&lt;/key&gt;
+	&lt;integer&gt;365&lt;/integer&gt;
+	&lt;key&gt;UUID&lt;/key&gt;
+	&lt;string&gt;ffffffff-ac7e-ffff-ffff-1408743028f2&lt;/string&gt;
+	&lt;key&gt;Version&lt;/key&gt;
+	&lt;integer&gt;1&lt;/integer&gt;
+&lt;/dict&gt;
+&lt;/plist&gt; ‚²0‚&#x3;ó0‚&#x2;Û &#x3;&#x2;&#x1;&#x2;&#x2;&#x1;&#x17;0&#x6;	*†H†÷&#x1;&#x1;&#x5;&#x5; 0b1&#xB;0	&#x6;&#x3;U&#x4;&#x6;&#x13;&#x2;US1&#x13;0&#x11;&#x6;&#x3;U&#x4;
+&#x13;
+Apple Inc.1&amp;0$&#x6;&#x3;U&#x4;&#xB;&#x13;&#x1D;Apple Certification Authority1&#x16;0&#x14;&#x6;&#x3;U&#x4;&#x3;&#x13;Apple Root CA0&#x1E;&#x17;070412174328Z&#x17;220412174328Z0y1&#xB;0	&#x6;&#x3;U&#x4;&#x6;&#x13;&#x2;US1&#x13;0&#x11;&#x6;&#x3;U&#x4;
+&#x13;
+Apple Inc.1&amp;0$&#x6;&#x3;U&#x4;&#xB;&#x13;&#x1D;Apple Certification Authority1-0+&#x6;&#x3;U&#x4;&#x3;&#x13;$Apple iPhone Certification Authority0‚&#x1;"0&#x6;	*†H†÷&#x1;&#x1;&#x1;&#x5; &#x3;‚&#x1;&#xF; 0‚&#x1;
+&#x2;‚&#x1;&#x1; £&#x1E;¾ðGÀ´ž&#x10;[F¤¸!¸O†!p(E`\&#x1C;ÃÈ
+dcˆûüiîøTüé[·&#x6;N&#x4;/Ãk3¯DLêK€	´‡ö[´ýdÝ³rà&#x13;³ý&#x17;Ù¼ç¨íÂŒaÂ*ùìÎ¥^Öiëd&#xB;&#x8;¸ PF	Ü&#x19;äå°”m»÷™˜Äè›ANÔñeã&#x1B;RzÜè&#x3;Ùn&#x1D;Ú&#x10;U†¤)XI&#xC;êG×&#x15;43öÀ DJp¾,µ*07Œ.&#x15;ëÑäl—8UV±5+XêD£&amp;…îÈfJäÏ‰ð=c­)Þ­ºZ³Ü¥£š§	N€&#x16;5e¤…c{&gt;cŠÚ}JFì£9&#x18;4¹Æ(e&#x18;¼&#x13;`œW¬&#x14;É‰í¡¶‡hR¶„N¸Èƒìùž&#x19;«³Á&#xB;†ÇŸ&#x2;&#x3;&#x1; &#x1;£œ0™0&#xE;&#x6;&#x3;U&#x1D;&#xF;&#x1;&#x1;ÿ&#x4;&#x4;&#x3;&#x2;&#x1;†0&#xF;&#x6;&#x3;U&#x1D;&#x13;&#x1;&#x1;ÿ&#x4;&#x5;0&#x3;&#x1;&#x1;ÿ0&#x1D;&#x6;&#x3;U&#x1D;&#xE;&#x4;&#x16;&#x4;&#x14;ç4*."Þ9`k´”Îwƒa/1 |50&#x1F;&#x6;&#x3;U&#x1D;#&#x4;&#x18;0&#x16;€&#x14;+ÐiG”v	þôk.@¦÷GM&#x8;^06&#x6;&#x3;U&#x1D;&#x1F;&#x4;/0-0+ ) '†%http://www.apple.com/appleca/root.crl0&#x6;	*†H†÷&#x1;&#x1;&#x5;&#x5; &#x3;‚&#x1;&#x1; &#x1D;ÑÕ{ÝtN×&#x17;ü‚-&#xC;™›^BròiÜÕk^&#xC;kK&gt;{&#x14;%Þ³”è ú&#xF;€‰ò&#x17;= &#x2;¢‘‘¾tWÜ¯šŸ¡
+}0¾ *Ì!YëýI¬nu&#x19;èšz&#x3;Ñ†öçö°&#xE;KIú£·Aº×ÑãV¡}ƒ«—®øQJ&amp;Á…B&#x13;&amp;&#x3;Tf&#x10;^`„&#x5;&#x12;1+kTÀ ÈA¼T&#x1E;çT­&#x13; ÒJÇ»ÁŠ¯&#x8;ŽðF
+¿'¦¾ÜÏ9:€p&#x19;#2£kf]žM¨GI²{EµQ3§tg	N¶loH÷,¹3&#x5;DkE¾tKo²†‘´&gt;%(%ž³ÂQ†üOå¯;ª»D,&#x1;Iât³4úDï&#x14;Â&#x11;ò-&#x19;&#x1A;Q‰Ó&#x8;JAlXVÞ›:á&#x5;WåbÏÒ&#xF;0‚&#x3;ù0‚&#x2;á &#x3;&#x2;&#x1;&#x2;&#x2;&#x1;&#x1F;0&#x6;	*†H†÷&#x1;&#x1;&#x5;&#x5; 0y1&#xB;0	&#x6;&#x3;U&#x4;&#x6;&#x13;&#x2;US1&#x13;0&#x11;&#x6;&#x3;U&#x4;
+&#x13;
+Apple Inc.1&amp;0$&#x6;&#x3;U&#x4;&#xB;&#x13;&#x1D;Apple Certification Authority1-0+&#x6;&#x3;U&#x4;&#x3;&#x13;$Apple iPhone Certification Authority0&#x1E;&#x17;080521020415Z&#x17;200521020415Z0Y1&#xB;0	&#x6;&#x3;U&#x4;&#x6;&#x13;&#x2;US1&#x13;0&#x11;&#x6;&#x3;U&#x4;
+&#x13;
+Apple Inc.1503&#x6;&#x3;U&#x4;&#x3;&#x13;,Apple iPhone OS Provisioning Profile Signing0‚&#x1;"0&#x6;	*†H†÷&#x1;&#x1;&#x1;&#x5; &#x3;‚&#x1;&#xF; 0‚&#x1;
+&#x2;‚&#x1;&#x1; Å"–¶Ñü½|„Âýk9Ô`ÌÎN:ÚABž”©&#x18;g†Š&#x16;ñF±&#x1C;i%Ç¿ó³ˆÝÈ¥©É¥‹B9X9´ŠÛ@út¤¬uW!ÛÙª¢
+¾äš*ƒ Ú&#x1F;7&#x11;ÀÊÊ&#x10;vûæPÁ&#x15;&#x1B;&#xB;gœ¡ó\Èx¦­&#x5;€®×
+´„šØŽÔ´nôI™/&#x1D;Ž|&#x10;ã&#x11;Â’t(²|+˜&#x15;ÇU ªg¡îLT¦ž&#x13;ä€/áÃ6G&#x12;¡ÿV¤”ï¥Pâd&#x1B; &#x8;¤â²½œvó®ê„sÐºÿ3×æ&#x1A;µ&#x1F;¾ƒ êö$§@á†â&#x13;—'&#xB;]}Å&#xB;o¦Ä]c0!•’ì&#x1A;ÑU”cf?„g&#xC;&#x1D;p&#x17;¼™¨&#x12;&#x1D;›&#x7;&#x1E;&#xF;v:&#xC;@o¯(;&#x2;&#x3;&#x1; &#x1;£«0¨0&#xB;&#x6;&#x3;U&#x1D;&#xF;&#x4;&#x4;&#x3;&#x2;&#x7;€0&#xC;&#x6;&#x3;U&#x1D;&#x13;&#x1;&#x1;ÿ&#x4;&#x2;0 0&#x11;&#x6;&#xB;*†H†÷cd&#x6;&#x2;&#x2;&#x1;&#x4;&#x2;&#x5; 0&#x1D;&#x6;&#x3;U&#x1D;&#xE;&#x4;&#x16;&#x4;&#x14;Öã&amp;Jh³&#xE;&#x10;½øß%!ãÂUl0&#x1F;&#x6;&#x3;U&#x1D;#&#x4;&#x18;0&#x16;€&#x14;ç4*."Þ9`k´”Îwƒa/1 |508&#x6;&#x3;U&#x1D;&#x1F;&#x4;10/0- + )†'http://www.apple.com/appleca/iphone.crl0&#x6;	*†H†÷&#x1;&#x1;&#x5;&#x5; &#x3;‚&#x1;&#x1; #ß¹Ãû&gt;dÇ&#x1C;]BÐ&#x18;—€Ñ4Í&#x13;ÈÀmõ†Ã&#x1C;^çÄUT&#xC;X·&#xF;]SAùÜµw—´w“„9_ß{b)u½ìø²{÷ê&#x1A;H¿l&#x5;*1àÇ[$@£˜ý&#x16;š“pjÜíG¶e;ü‰‹fEFŒÞK¶pmº§±&#x14;O£lÛOOB˜|õ&#x5;€Í¶&#x11;°ðìÔYj¿&#x1B;Mú¥ä½Þ/²¹&#xB;1Dó’&#x1C;&#x2;HtŸÿ«%Oûtì+;,
+Þe)’&#x1D;&#x17;ê”JoxAA—1©%šñi&#x1B;Ôá-ô&#x1A;¶‰À¿Ö•&#xE;·…·ÆBð)éúôäq·YÛa13RtQ7†‘&#x1F;Ip¾ó&#x2;&amp;&#xB;¼Õ&#x12;X°ïZ…ìVË´¡®õˆl‰&#x16;'&#x13;%ßçâ&#x15;äz!fš0‚&#x5;º0‚&#x4;¢ &#x3;&#x2;&#x1;&#x2;&#x2;&#x1;&#x1;0&#x6;	*†H†÷&#x1;&#x1;&#x5;&#x5; 0†1&#xB;0	&#x6;&#x3;U&#x4;&#x6;&#x13;&#x2;US1&#x1D;0&#x1B;&#x6;&#x3;U&#x4;
+&#x13;&#x14;Apple Computer, Inc.1-0+&#x6;&#x3;U&#x4;&#xB;&#x13;$Apple Computer Certificate Authority1)0'&#x6;&#x3;U&#x4;&#x3;&#x13; Apple Root Certificate Authority0&#x1E;&#x17;050210001814Z&#x17;250210001814Z0†1&#xB;0	&#x6;&#x3;U&#x4;&#x6;&#x13;&#x2;US1&#x1D;0&#x1B;&#x6;&#x3;U&#x4;
+&#x13;&#x14;Apple Computer, Inc.1-0+&#x6;&#x3;U&#x4;&#xB;&#x13;$Apple Computer Certificate Authority1)0'&#x6;&#x3;U&#x4;&#x3;&#x13; Apple Root Certificate Authority0‚&#x1;"0&#x6;	*†H†÷&#x1;&#x1;&#x1;&#x5; &#x3;‚&#x1;&#xF; 0‚&#x1;
+&#x2;‚&#x1;&#x1; ä‘©	&#x1F;‘Û&#x1E;GPë&#x5;í^y„-ë6¢WLUì‹&#x19;‰ÞùKlõ&#x7;«"0&#x2;è&#x18;&gt;øP	ÓA¨˜ùÑÊfœ$k&#x11;Ð£»ä&#x1B;*Ã&#x1F;•žz&#xC;¤G‹[Ô&#x16;73ËÄ&#xF;MÎ&#x14;iÑÉ&#x19;rõ]&#xE;Õ_›ò%&#x3;ºUM]ñd5#&#x15;K&#x15;Y&#x1D;³”÷öœžÏPºÁXPg&#x8;´ ÷Ë¬, op¶?&#x1;0Œ·CÏ&#xF;=ó+I(&#x1A;ÈþÎµ¹&#xE;Ù^&#x1C;ÖË=µ:­ô&#xF;&#xE; ’&#xB;±!&#x16;.tÕ&lt;Ûb&#x16;«£q’GSUÁ¯/A³øûãpÍæ£LE~&#x1F;LkP–A‰Ätb&#xB;&#x10;ƒA‡3Š±0XìZ&#x4;2Œh³&#x1D;Þesÿg^e¼IØvŸ3&#x14;e¡w”É-&#x2;&#x3;&#x1; &#x1;£‚&#x2;/0‚&#x2;+0&#xE;&#x6;&#x3;U&#x1D;&#xF;&#x1;&#x1;ÿ&#x4;&#x4;&#x3;&#x2;&#x1;&#x6;0&#xF;&#x6;&#x3;U&#x1D;&#x13;&#x1;&#x1;ÿ&#x4;&#x5;0&#x3;&#x1;&#x1;ÿ0&#x1D;&#x6;&#x3;U&#x1D;&#xE;&#x4;&#x16;&#x4;&#x14;+ÐiG”v	þôk.@¦÷GM&#x8;^0&#x1F;&#x6;&#x3;U&#x1D;#&#x4;&#x18;0&#x16;€&#x14;+ÐiG”v	þôk.@¦÷GM&#x8;^0‚&#x1;)&#x6;&#x3;U&#x1D; &#x4;‚&#x1; 0‚&#x1;&#x1C;0‚&#x1;&#x18;&#x6;	*†H†÷cd&#x5;&#x1;0‚&#x1;	0A&#x6;&#x8;+&#x6;&#x1;&#x5;&#x5;&#x7;&#x2;&#x1;&#x16;5https://www.apple.com/certificateauthority/terms.html0Ã&#x6;&#x8;+&#x6;&#x1;&#x5;&#x5;&#x7;&#x2;&#x2;0¶&#x1A;³Reliance on this certificate by any party assumes acceptance of the then applicable standard terms and conditions of use, certificate policy and certification practice statements.0D&#x6;&#x3;U&#x1D;&#x1F;&#x4;=0;09 7 5†3https://www.apple.com/certificateauthority/root.crl0U&#x6;&#x8;+&#x6;&#x1;&#x5;&#x5;&#x7;&#x1;&#x1;&#x4;I0G0E&#x6;&#x8;+&#x6;&#x1;&#x5;&#x5;&#x7;0&#x2;†9https://www.apple.com/certificateauthority/casigners.html0&#x6;	*†H†÷&#x1;&#x1;&#x5;&#x5; &#x3;‚&#x1;&#x1; Ú-(X/}v&#x4;¹&#x4;Ó&gt;Î·fcN/ÔþK­r½£9ÆRM&#x5;˜Rõ‰Q&#x1;$y¾&#x1A;2÷åD‹KD&#x7;9‚ÖZÊ´ ^Ù®&#x15;]&#x1D;Œ&#x1D;2¿81bH]Çá±ø$@ø_X›Q]WÁåÿ&lt;Ìr!nÄéé¡w×,&#x17;&amp;Ã?ëšè&#xB;&#x3;ºé³Jrë3	[­æb1jè¯/Õ¯&#x1E;Wv7-.&#x2;\ÝcÉòq¸&amp;@ß&#x15;uD?y½æ&#x1D;™áC,&gt;­o¾¹¤þ&#xE;5&#x19;Qc±ÃÞµ’&gt;Qx&#x1;sŠ¤#Ê¤ˆñ&#x1E;\&#x1F;A&#x16;-~•
+ªé‰A˜&#x1B;&#x1A;ÝË ¿G^&#xC;&amp;ÅU5MÆ0‹™g&#x14;Ç	&#x1F;ºGÇÚ&#x1;	‡$B•½&#x13;`&#x19;
+ïê&#xE;nÍÁDC:JÕã1‚&#x2;Y0‚&#x2;U&#x2;&#x1;&#x1;0~0y1&#xB;0	&#x6;&#x3;U&#x4;&#x6;&#x13;&#x2;US1&#x13;0&#x11;&#x6;&#x3;U&#x4;
+&#x13;
+Apple Inc.1&amp;0$&#x6;&#x3;U&#x4;&#xB;&#x13;&#x1D;Apple Certification Authority1-0+&#x6;&#x3;U&#x4;&#x3;&#x13;$Apple iPhone Certification Authority&#x2;&#x1;&#x1F;0	&#x6;&#x5;+&#xE;&#x3;&#x2;&#x1A;&#x5;  ±0&#x18;&#x6;	*†H†÷&#x1;	&#x3;1&#xB;&#x6;	*†H†÷&#x1;&#x7;&#x1;0&#x1C;&#x6;	*†H†÷&#x1;	&#x5;1&#xF;&#x17;150721180324Z0#&#x6;	*†H†÷&#x1;	&#x4;1&#x16;&#x4;&#x14;˜&#x14;!-ê&#x1B;%XÆØûgeˆˆC&#x1B;F&#x14;0R&#x6;	*†H†÷&#x1;	&#xF;1E0C0
+&#x6;&#x8;*†H†÷&#x3;&#x7;0&#xE;&#x6;&#x8;*†H†÷&#x3;&#x2;&#x2;&#x2; €0&#x6;&#x8;*†H†÷&#x3;&#x2;&#x2;&#x1;@0&#x7;&#x6;&#x5;+&#xE;&#x3;&#x2;&#x7;0&#x6;&#x8;*†H†÷&#x3;&#x2;&#x2;&#x1;(0&#x6;	*†H†÷&#x1;&#x1;&#x1;&#x5; &#x4;‚&#x1; Ã4î‰Mm¾ÅQl:&#xE;Á&#x1B;¶!1¶^&#x6;qb&#x1C;˜\™0“Ñ®Z‘‡»m‰öï°µð&#xB;ë&#x13;à&#x6;}~þ:&#x3;a¸õ I›&#x19;G&#x18;&#x1C;ŠÛ&lt;í&#xC;?É²&#x7;ú’¯) ~&#x17;ÐõwESû*¾át©ëå'yªv&#xC;l»	&#x6;g7&#xC;5!u;BŒ_5×„‘T&#x10;~¶/ž‰ÖN ÆU&#x1A;Nã=h&#x6;A&#x7;Ä¿ xŸ•R´”ÚŠOúƒŒ&#x8;Ûæ[*Oú&#x17;ñlG‰(&#xF;³ï‚‚Ïø ”½Ïq[oÔ;T*ôé+ÿvÐýƒß0í©#&#x11;	bg_¾\@7&#x1B;o°²“’S‘&#x18;âÝ‘V*€î&#x8;³Á7JÊM5Ž: Ž±&#x19;&#x12;[¢U&#x6;ƒXuÇo÷!Âþ
+&#x16;Rv</value>
+  </data>
+  <data name="SampleBrowser_itunesmetadata" xml:space="preserve">
+    <value>&lt;?xml version="1.0" encoding="UTF-8"?&gt;
+&lt;!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd"&gt;
+&lt;plist version="1.0"&gt;
+&lt;dict&gt;
+	&lt;key&gt;genre&lt;/key&gt;
+	&lt;string&gt;Application&lt;/string&gt;
+	&lt;key&gt;bundleVersion&lt;/key&gt;
+	&lt;string&gt;1.0&lt;/string&gt;
+	&lt;key&gt;itemName&lt;/key&gt;
+	&lt;string&gt;SampleBrowser&lt;/string&gt;
+	&lt;key&gt;kind&lt;/key&gt;
+	&lt;string&gt;software&lt;/string&gt;
+	&lt;key&gt;playlistName&lt;/key&gt;
+	&lt;string&gt;SampleBrowser&lt;/string&gt;
+	&lt;key&gt;softwareIconNeedsShine&lt;/key&gt;
+	&lt;true/&gt;
+	&lt;key&gt;softwareVersionBundleId&lt;/key&gt;
+	&lt;string&gt;com.your-company.SampleBrowser&lt;/string&gt;
+&lt;key&gt;MyOwnProperty&lt;/key&gt;
+	&lt;false/&gt;
+&lt;key&gt;EmptyTag&lt;/key&gt;&lt;/dict&gt;
+&lt;/plist&gt;</value>
+  </data>
+</root>
